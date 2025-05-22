@@ -1,0 +1,3 @@
+w=float(input("enter your side length: "))
+area=side * side
+print("the square feet is: ",area)
